@@ -167,12 +167,12 @@ if __name__ == "__main__":
     )
     # ################
 
-    # enc_img(
-    #     "original_files/sample_640×426.bmp",
-    #     "output/enc_bottom_up_ecb_sample_640×426.bmp",
-    #     False,
-    #     False,	
-    # )
+    enc_img(
+        "original_files/sample_640×426.bmp",
+        "output/enc_bottom_up_ecb_sample_640×426.bmp",
+        False,
+        False,	
+    )
 
     # ### TODO: TRIANGLE ###
     # # ECB
