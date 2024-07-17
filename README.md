@@ -1,3 +1,8 @@
-# NS Lab 2: Symmetric Key Encryption and Message Digest
+# Python Cryptography
+50.005 Computer System Engineering  
+May 2024 - Aug 2024
 
-The starter code provided to you is written in Python. You need at least <span style="color:#f7007f;"><b>Python 3.10</b></span> to complete this assignment and the [`cryptography`](https://pypi.org/project/cryptography/) module. We will use the Python `cryptography` module to write our program instead of implementing 3DES, RSA and SHA-256 directly. You will also need this module for your Programming Assignment 2, so take this lab as a precursor to the asssignment. 
+## References
+
+1. [Lab Handout](https://natalieagus.github.io/50005/labs/07-encryption#task-1-1)
+2. [Starter Code](https://github.com/natalieagus/nslab2.git)
